@@ -58,7 +58,7 @@ const updateConnectStatus = async () => {
       onboardButton.disabled = true;
       onboarding.startOnboarding();
       // HIDE SPINNER
-      spinner.classList.add('hidden');
+      spinner.classList.remove('hidden');
       notConnected.classList.remove('hidden');
       notConnected.classList.add('show-not-connected');
     };
