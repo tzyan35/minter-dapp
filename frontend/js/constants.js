@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the cHibi wHaleZ NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The cHibi wHaleZ NFT Project is a decentralized, open-source project that aims to demonstrate how to develop and launch your own NFT Collection.';
+const welcome_p = 'The cHibi wHaleZ NFT Project is a decentralized, open-source project that aims to demonstrate how to develop and launch your own NFT Collection. Please connect to the Polygon Chain.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
