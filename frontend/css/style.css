@@ -333,7 +333,7 @@ section {
 }
 
 /* SPINNER */
-.dot-spin {
+/*.dot-spin {
   position: absolute;
   top: 50%;
   left: 50%;
