@@ -76,7 +76,7 @@ const updateConnectStatus = async () => {
   } else {
     onboardButton.innerText = "Connect MetaMask!";
     // HIDE SPINNER
-    spinner.classList.add('hidden');
+    spinner.classList.remove('hidden');
     notConnected.classList.remove('hidden');
     notConnected.classList.add('show-not-connected');
     onboardButton.onclick = async () => {
